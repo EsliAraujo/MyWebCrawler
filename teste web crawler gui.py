@@ -5,6 +5,8 @@ Created on Tue Oct  9 21:29:46 2018
 @author: Esli
 """
 
+#teste
+
 from bs4 import BeautifulSoup
 
 import requests
